@@ -4,3 +4,6 @@ KPIs.db
 *.pkl
 .conda/
 VAE_env.tar.gz
+vae_output/vae_model.weights.h5
+*.h5
+vae_output/*
