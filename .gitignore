@@ -1,0 +1,5 @@
+KPIs.zip
+KPIs.db
+*.csv
+*.pkl
+.conda/
