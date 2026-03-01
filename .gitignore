@@ -3,3 +3,4 @@ KPIs.db
 *.csv
 *.pkl
 .conda/
+VAE_env.tar.gz
